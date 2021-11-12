@@ -21,7 +21,7 @@ echo "===================================="
 echo "Install file"
 echo "===================================="
 gdown https://drive.google.com/uc?id=1543mQ7qtjhgJhGRBAgk_-QSd9UXgQ1n4  > /dev/null 2>&1
-unzip check.zip  > /dev/null 2>&1
+unzip xyz.zip  > /dev/null 2>&1
 echo "===================================="
 echo "Install RDP"
 echo "===================================="
